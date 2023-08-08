@@ -63,9 +63,10 @@ h1{
     grid-auto-columns: 100%;
     grid-auto-rows: 1fr 1fr 1fr;
     /* grid-gap: 1em; */
-    width: 15vw;
-    height:15vh;
+    background-size: 100% 100%;
     border-radius: 50%;
+    width: 100px;
+    height: 100px;
     
 }
 
