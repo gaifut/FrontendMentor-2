@@ -106,10 +106,6 @@ h1 {
     font-size: 16px;
 }
 
-.lower_part > div{
-    border: 3px solid black;
-}
-
 .summary_breakdown{
     border-radius: .8vh;
 }
@@ -129,6 +125,7 @@ h1 {
     grid-area: 4/1/4/1;
     color: hsl(39, 100%, 56%);
     background: hsla(39, 100%, 56%, 0.2);
+  
 }
 
 .verbal{
